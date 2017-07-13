@@ -1,0 +1,8 @@
+*.zip
+*.jar
+out
+target
+.project
+.classpath
+.settings
+activemq-data
